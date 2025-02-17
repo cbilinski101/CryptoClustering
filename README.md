@@ -1,9 +1,8 @@
 # Crypto Clustering Project
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
 
 This project utilizes clustering techniques to analyze and classify cryptocurrency market data. Using advanced data analysis and visualization methods, the project aims to uncover patterns and trends in the cryptocurrency market.
 
